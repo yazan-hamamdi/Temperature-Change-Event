@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Temperature_Change_Event_Example/1.0.0": {
+        "runtime": {
+          "Temperature_Change_Event_Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temperature_Change_Event_Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
